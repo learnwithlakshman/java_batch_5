@@ -7,7 +7,7 @@ public class EvenOrOdd {
           public static void main(String... args){
         	  	
         	  		Scanner sc = new Scanner(System.in);
-        	  		System.out.println("Enter the num:");
+        	  		System.out.println("Enter integer value to check even or odd");
         	  		int num = sc.nextInt();
         	  		// To check even or odd
         	  		if(num % 2 == 0) {   
