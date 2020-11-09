@@ -1,4 +1,4 @@
-package com.careerit.cj.day5;
+package com.careerit.corejava.day5;
 
 import java.util.Scanner;
 
