@@ -1,0 +1,60 @@
+1. Setup of Dev Environment 
+
+   JDK
+
+   https://www.oracle.com/java/technologies/javase-jdk15-downloads.html
+
+   java  -version
+   javac -version
+
+
+   Editor:
+          Notepad
+
+	  "Classname.java"
+
+          .exe | .sh
+
+          .class 
+
+          JVM
+
+2. IDE 
+
+   https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2020-09/R/eclipse-inst-jre-win64.exe&mirror_id=1287
+
+
+
+https://www.artima.com/insidejvm/ed2/jvm2.html 
+https://docs.oracle.com/javase/tutorial/
+ 	 
+
+
+JSE - 
+JEE - 
+JME - 
+
+Java SE Development Kit (JDK)
+
+The JDK includes the JRE plus command-line development tools such as compilers and debuggers that are necessary or useful for developing applets and applications.
+  
+JRE 
+
+The JRE provides the libraries, Java virtual machine, and other components necessary for you to run applets and applications written in the Java programming language.
+This runtime environment can be redistributed with applications to make them free-standing.
+
+
+
+      jar
+      war
+      ear
+    
+      aar
+  
+      HelloWorld.java  ->  javac -> .class ->  java HelloWorold 
+
+
+
+=
+
+git or github/bitbucket
