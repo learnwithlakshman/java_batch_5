@@ -17,6 +17,8 @@ public class EmployeeManager {
 		emp5.setValues(1005, "Charan", 250000);
 		
 		
+		System.out.println();
+		
 		
 
 	}
