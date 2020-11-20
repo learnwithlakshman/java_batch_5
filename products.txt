@@ -1,0 +1,8 @@
+1001,Lenvo Thinkpad,65000
+1002,Dell Studio15,90000
+1003,Mac AirPro,85000
+1004,Mi ThinkPad,76000
+1005,Sony, 45000
+1006,Dell Inspiron, 45000
+1007, Hp Basic, 25000
+1008,Hp Gamming Laptop, 90000
