@@ -13,11 +13,13 @@ public class ProductManager {
 					Product[] products = new Product[8];
 					int i = 0;
 					while(sc.hasNext()) {
+					
 						String line = sc.nextLine();
 						String[] arr = line.split(",");
 						int pid = Integer.parseInt(arr[0]);  
 						String pname = arr[1];
 						double price = Double.parseDouble(arr[2]);
+						
 						products[i++] = new Product(pid, pname, price);
 						
 					}
