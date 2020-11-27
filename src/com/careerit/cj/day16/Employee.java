@@ -5,7 +5,7 @@ public class Employee {
 		int empno;
 		String name;
 		float salary;
-		
+		static String orgName="XYZC Org";
 		public Employee() {
 		}
 		

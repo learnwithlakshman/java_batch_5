@@ -2,8 +2,11 @@ package com.careerit.cj.day16;
 
 import static com.careerit.cj.day16.MyMathOperations.factorial;
 import static com.careerit.cj.day16.MyMathOperations.isPrime;
+import static java.lang.Math.PI;
+import static java.lang.Math.abs;
+import static java.lang.Math.pow;
+import static java.lang.Math.sqrt;
 import static java.lang.System.out;
-
 
 public class StaticExample {
 
@@ -25,6 +28,11 @@ public class StaticExample {
 		out.println(res);
 		out.println(prime);
 		out.println(fact);
+		System.out.println(PI);
+		System.out.println(pow(2, 3));
+		System.out.println(sqrt(9));
+		System.out.println(abs(-10));
+		System.out.println(pow(3,4));
 
 	}
 
