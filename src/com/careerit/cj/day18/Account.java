@@ -37,7 +37,7 @@ public class Account {
 		}
 	}
 
-	public void deposite(double amount) {
+	public void deposit(double amount) {
 		this.balance += amount;
 		System.out.println("Your account number " + maskAccountNumber(accNumber) + "is credited with  "
 				+ amount + " current balance is :" + balance);
