@@ -3,6 +3,7 @@ import static com.careerit.cj.day18.MaskUtil.maskAccountNumber;
 
 
 public class Account {
+	
 	static String bankName = "SBI";
 	long accNumber;
 	String name;
