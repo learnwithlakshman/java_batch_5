@@ -29,6 +29,31 @@ public class Account extends Object {
 		balance += amount;
 		return balance;
 	}
+	
+	
+	public int getAccNumber() {
+		return accNumber;
+	}
+
+	public void setAccNumber(int accNumber) {
+		this.accNumber = accNumber;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public double getBalance() {
+		return balance;
+	}
+
+	public void setBalance(double balance) {
+		this.balance = balance;
+	}
 
 	@Override
 	public String toString() {
