@@ -1,4 +1,4 @@
-package com.careerit.cj.day21;
+package com.careerit.cj.day23;
 
 public class CurrentAccount extends Account {
 
