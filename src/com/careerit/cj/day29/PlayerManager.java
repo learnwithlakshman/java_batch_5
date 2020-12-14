@@ -6,6 +6,8 @@ import java.util.List;
 public class PlayerManager {
 
 	public static void main(String[] args) {
+		
+		
 		List<Player> playerList = CsvReaderUtil.loadFromFile();
 		double maximumAmount = maxAmount(playerList);
 		System.out.println("Maximum amount paid is :" + maximumAmount);
